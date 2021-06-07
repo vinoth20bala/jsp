@@ -1,5 +1,5 @@
 <?php
     
-    include('content.phtml')
+    include('include/content.php')
   ?>
 
